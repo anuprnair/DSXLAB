@@ -1,2 +1,0 @@
-# DSXLAB
-DSX Local Lab
